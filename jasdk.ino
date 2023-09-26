@@ -1,9 +1,6 @@
 /*****************************************************
- * Title 	: ecu_secondary.ino
- * Author   : Harish R
- * Date     : 31st December 2022
+ * Title 	: ecu_secondary.in
  * Purpose  : VSM ECU CODE
- * Email	: harishrajesh2002@gmail.com
  ******************************************************/
 
 /******************************************************
